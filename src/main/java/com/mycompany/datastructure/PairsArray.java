@@ -13,8 +13,7 @@ public class PairsArray {
                 }
             }
         }
-        //https://www.tutorialcup.com/interview/hashing/given-two-unsorted-arrays-find-all-pairs-whose-sum-is-x.htm#
-        
+       
     }
     public static void main(String[] args){
         int arr[] ={1, 5, 7, -1, 5};
